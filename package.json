@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Maepoir/WebMeteo#readme",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "request": "^2.88.0",
     "xmlhttprequest": "^1.8.0"
   }
